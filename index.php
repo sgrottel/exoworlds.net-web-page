@@ -3,8 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Exoworlds&trade;</title>
-<link rel="shortcut icon" href="http://www.exoworlds.net/favicon.ico" type="image/x-ico; charset=binary" />
-<link rel="icon" href="http://www.exoworlds.net/favicon.ico" type="image/x-ico; charset=binary" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-ico; charset=binary" />
+<link rel="icon" href="/favicon.ico" type="image/x-ico; charset=binary" />
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300" rel="stylesheet">
 <style type="text/css" media="screen">
 <!--
@@ -108,11 +108,11 @@ function moveBkgnd() {
 				echo "<a href=\"https://www.sgrottel.de/?page_id=1626\">Imprint</a> &mdash; <a href=\"https://www.sgrottel.de/?page_id=1635\">Data Protection</a>\n";
 			}
 			?></td>
-			<td><p> <a href="http://validator.w3.org/check?uri=referer"><img
-        src="http://www.w3.org/Icons/valid-xhtml11-blue"
+			<td><p> <a href="https://validator.w3.org/check?uri=referer"><img
+        src="https://www.w3.org/Icons/valid-xhtml11-blue"
         alt="Valid XHTML 1.1" height="31" width="88" /></a> </p></td>
-			<td><p> <a href="http://jigsaw.w3.org/css-validator/check/referer"> <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+			<td><p> <a href="https://jigsaw.w3.org/css-validator/check/referer"> <img style="border:0;width:88px;height:31px"
+        src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="CSS is valide!" /> </a> </p></td>
 		</tr>
 	</table>
