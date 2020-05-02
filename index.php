@@ -3,10 +3,10 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Exoworlds&trade;</title>
-	<link rel="icon" sizes="192x192" href="img/png/favicon192x.png" />
-	<link rel="icon" sizes="194x194" href="img/png/favicon194x.png" />
-	<link rel="icon" sizes="32x32" href="img/png/favicon32x.png" />
-	<link rel="icon" sizes="16x16" href="img/png/favicon16x.png" />
+	<link rel="icon" sizes="192x192" href="/favicon192x.png" />
+	<link rel="icon" sizes="194x194" href="/favicon194x.png" />
+	<link rel="icon" sizes="32x32" href="/favicon32x.png" />
+	<link rel="icon" sizes="16x16" href="/favicon16x.png" />
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:300" rel="stylesheet" />
 	<style type="text/css" media="screen">
