@@ -109,12 +109,12 @@ function moveBkgnd() {
 					echo "<a href=\"https://www.sgrottel.de/?page_id=1626\">Imprint</a> &mdash; <a href=\"https://www.sgrottel.de/?page_id=1635\">Data Protection</a>\n";
 				}
 				?></td>
-				<td><p><a href="https://validator.w3.org/check?uri=referer"><img
+				<!--<td><p><a href="https://validator.w3.org/check?uri=referer"><img
 			src="https://www.w3.org/Icons/valid-xhtml11-blue"
 			alt="Valid XHTML 1.1" height="31" width="88" /></a></p></td>
 				<td><p><a href="https://jigsaw.w3.org/css-validator/check/referer"> <img style="border:0;width:88px;height:31px"
 			src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-			alt="CSS is valide!" /></a></p></td>
+			alt="CSS is valide!" /></a></p></td>-->
 			</tr>
 		</table>
 	</div>
