@@ -101,12 +101,12 @@ function moveBkgnd() {
 					/* de */
 					echo "F&uuml;r den Inhalt dieser Webseite ist<br />\n";
 					echo "SGrottel (<a href=\"https://www.sgrottel.de\">www.sgrottel.de</a>) verantwortlich.<br />\n";
-					echo "<a href=\"https://www.sgrottel.de/?page_id=1626\">Impressum</a> &mdash; <a href=\"https://www.sgrottel.de/?page_id=1635\">Datenschutz</a>\n";
+					echo "<a href=\"https://www.sgrottel.de/imprint/de\">Impressum</a> &mdash; <a href=\"https://www.sgrottel.de/dataprivacy/de\">Datenschutz</a>\n";
 				} else {
 					/* en */
 					echo "The content of this website has been<br />\n";
 					echo "created by SGrottel (<a href=\"https://www.sgrottel.com\">www.sgrottel.com</a>).<br />\n";
-					echo "<a href=\"https://www.sgrottel.de/?page_id=1626\">Imprint</a> &mdash; <a href=\"https://www.sgrottel.de/?page_id=1635\">Data Protection</a>\n";
+					echo "<a href=\"https://www.sgrottel.de/imprint/en\">Imprint</a> &mdash; <a href=\"https://www.sgrottel.de/dataprivacy/en\">Data Privacy</a>\n";
 				}
 				?></td>
 				<!--<td><p><a href="https://validator.w3.org/check?uri=referer"><img
