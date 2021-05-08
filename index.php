@@ -64,7 +64,7 @@ function moveBkgnd() {
 </head>
 <body>
 	<div class="image">
-		<p><img src="exoworlds.png" alt="Exoworlds" /></p>
+		<p><img src="exoworlds-512x.svg" alt="Exoworlds" width="70%"/></p>
 		<p><?php 
 		echo "Simulating the void since 1998";
 	/*
@@ -85,6 +85,7 @@ function moveBkgnd() {
 		07.2008 Exoworlds Mini (Minigame)
 		05.2019 Exoworlds Title redesign
 		03.2020 ExoSWAT renamed to just Exoworlds -- Exoworlds Fleets discontinued
+		05.2021 New title logo and finally an abstract-ish icon, yeah!
 
 		"Space is Desease and Danger out in Darkness and Silence"
 			Dr. Lennard McCoy (Star Trek 11)
