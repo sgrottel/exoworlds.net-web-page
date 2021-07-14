@@ -109,7 +109,7 @@ a:hover {
 	font-size: 75%;
 	text-align: left;
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: auto auto;
 	align-content: space-between;
 }
 
