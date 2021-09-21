@@ -11,3 +11,26 @@ The scope of this cover page website is
 4. A news feed entry point
 5. Links to more information, like developer blog
 6. Imprint and data privacy disclaimers
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
