@@ -1,6 +1,6 @@
 {
   "FileType": "REDATE-1-0",
-  "FileDate": "2022-03-15T19:26:54.3988625+01:00",
+  "FileDate": "2022-03-15T19:27:34.1671993+01:00",
   "SourceDirs": [
     "dist"
   ],
@@ -43,9 +43,9 @@
     {
       "Path": "dist\\index.html",
       "Length": 1241,
-      "WriteTime": "2021-07-13T22:00:00Z",
+      "WriteTime": "2022-03-15T18:27:29.1601472Z",
       "Attributes": 32,
-      "Md5Hash": "928503074ea8123b70061957dba724e2"
+      "Md5Hash": "a00ad3172d1813f5bf6f182396a501e0"
     },
     {
       "Path": "dist\\css\\app.a22ae456.css",
@@ -76,20 +76,6 @@
       "Md5Hash": "ac776c651d2438c47af33eba6d58c8a2"
     },
     {
-      "Path": "dist\\js\\app.2fd9e41a.js",
-      "Length": 3026,
-      "WriteTime": "2021-07-13T22:00:00Z",
-      "Attributes": 32,
-      "Md5Hash": "e878c1986e0c7563d64003d951e6cb84"
-    },
-    {
-      "Path": "dist\\js\\app.2fd9e41a.js.map",
-      "Length": 16026,
-      "WriteTime": "2021-07-13T22:00:00Z",
-      "Attributes": 32,
-      "Md5Hash": "5a2268844f24366dca37b921878da308"
-    },
-    {
       "Path": "dist\\js\\chunk-vendors.80c1392e.js",
       "Length": 92064,
       "WriteTime": "2021-05-23T22:00:00Z",
@@ -102,6 +88,20 @@
       "WriteTime": "2021-05-23T22:00:00Z",
       "Attributes": 32,
       "Md5Hash": "a39ba607dc442804b14ae20d94303b52"
+    },
+    {
+      "Path": "dist\\js\\app.b6f7525f.js",
+      "Length": 3026,
+      "WriteTime": "2022-03-15T18:27:29.1616521Z",
+      "Attributes": 32,
+      "Md5Hash": "f85b6b46f7c58b220585dbae5961b2ee"
+    },
+    {
+      "Path": "dist\\js\\app.b6f7525f.js.map",
+      "Length": 16026,
+      "WriteTime": "2022-03-15T18:27:29.1626527Z",
+      "Attributes": 32,
+      "Md5Hash": "e1762ea2775b7087cd389daeb449819c"
     }
   ]
 }
