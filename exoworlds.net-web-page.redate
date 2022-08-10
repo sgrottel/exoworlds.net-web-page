@@ -1,6 +1,6 @@
 {
   "FileType": "REDATE-1-0",
-  "FileDate": "2022-03-15T19:27:34.1671993+01:00",
+  "FileDate": "2022-08-10T07:36:51.3983466+02:00",
   "SourceDirs": [
     "dist"
   ],
@@ -42,17 +42,10 @@
     },
     {
       "Path": "dist\\index.html",
-      "Length": 1241,
-      "WriteTime": "2022-03-15T18:27:29.1601472Z",
+      "Length": 1049,
+      "WriteTime": "2022-08-10T05:36:36.8523897Z",
       "Attributes": 32,
-      "Md5Hash": "a00ad3172d1813f5bf6f182396a501e0"
-    },
-    {
-      "Path": "dist\\css\\app.a22ae456.css",
-      "Length": 1145,
-      "WriteTime": "2021-07-13T22:00:00Z",
-      "Attributes": 32,
-      "Md5Hash": "7223d9140974295a7fd29242975d24b5"
+      "Md5Hash": "999d4e5bf95316d89602bb480cae1970"
     },
     {
       "Path": "dist\\img\\bkgnd.cd9a0a77.jpg",
@@ -90,18 +83,46 @@
       "Md5Hash": "a39ba607dc442804b14ae20d94303b52"
     },
     {
-      "Path": "dist\\js\\app.b6f7525f.js",
-      "Length": 3026,
-      "WriteTime": "2022-03-15T18:27:29.1616521Z",
+      "Path": "dist\\css\\app.9130678c.css",
+      "Length": 1436,
+      "WriteTime": "2022-08-10T05:36:36.8523897Z",
       "Attributes": 32,
-      "Md5Hash": "f85b6b46f7c58b220585dbae5961b2ee"
+      "Md5Hash": "2fa06353fb57acaf855d491b5f5128b0"
     },
     {
-      "Path": "dist\\js\\app.b6f7525f.js.map",
-      "Length": 16026,
-      "WriteTime": "2022-03-15T18:27:29.1626527Z",
+      "Path": "dist\\js\\app.5f6ccff3.js",
+      "Length": 3026,
+      "WriteTime": "2022-08-10T05:36:36.8523897Z",
       "Attributes": 32,
-      "Md5Hash": "e1762ea2775b7087cd389daeb449819c"
+      "Md5Hash": "d082cd3887593a489c7e4890f3bb4a7d"
+    },
+    {
+      "Path": "dist\\js\\app.5f6ccff3.js.map",
+      "Length": 16391,
+      "WriteTime": "2022-08-10T05:36:36.8523897Z",
+      "Attributes": 32,
+      "Md5Hash": "fbe9d1ad2b967f09d96331ba6aaa8f21"
+    },
+    {
+      "Path": "dist\\ttf\\AlegreyaSansSC-Regular.ttf",
+      "Length": 249900,
+      "WriteTime": "2022-08-10T05:36:36.8523897Z",
+      "Attributes": 32,
+      "Md5Hash": "20c1e2c43111bfa549537e09a6b5f431"
+    },
+    {
+      "Path": "dist\\ttf\\FiraSans-Regular.ttf",
+      "Length": 440984,
+      "WriteTime": "2022-08-10T05:36:36.8580277Z",
+      "Attributes": 32,
+      "Md5Hash": "50e780b45678ae34cef52d3e5112bd0d"
+    },
+    {
+      "Path": "dist\\ttf\\OFL.txt",
+      "Length": 4464,
+      "WriteTime": "2022-08-10T05:36:36.8566726Z",
+      "Attributes": 32,
+      "Md5Hash": "824d06d116dbf37b905f885cc8ae9a31"
     }
   ]
 }

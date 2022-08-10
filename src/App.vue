@@ -47,6 +47,22 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/ttf/FiraSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Alegreya Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/ttf/AlegreyaSansSC-Regular.ttf) format("truetype");
+}
+
 html, body {
 	margin: 0px;
 	padding: 0px;
